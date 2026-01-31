@@ -203,14 +203,15 @@ Key literature informing this work:
 
 ## 🙏 Acknowledgments
 
-**Field Data Collection Team:**
+**Field Data Collection Team & Acknowledgment:**
 - Oluwadamilola C. Ogundipe
 - Adeboye Adetunji Adetola
-- *[Add other team members here]*
+- Olukunle Damola
+- Dr. Ogana Friday
 
 **Supervisors:**
-- Dr. S.O. Oyamakin (FRM 736 - Multivariate Analysis)
-- Dr. A.A. Alo (FRM 735 - Resource Inventory Analysis)
+- Dr. S.O. Oyamakin ( Multivariate Analysis)
+- Dr. A.A. Alo (Resource Inventory Analysis)
 
 Data was collected as part of MSc coursework in Forest Biometrics at the University of Ibadan, Nigeria (2017-2018). We thank the Forestry Research Institute of Nigeria (FRIN) and the Oyo/Ogun State Forestry Departments for access to the study sites.
 
