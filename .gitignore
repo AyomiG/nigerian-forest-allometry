@@ -1,0 +1,28 @@
+# R
+.Rhistory
+.Rdata
+.RData
+.Ruserdata
+*.Rproj.user/
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output files (regenerate from scripts)
+*.pdf
+*.html
+
+# Large data files (keep CSVs)
+*.xlsx
+*.xls
