@@ -3,7 +3,7 @@
 [![R](https://img.shields.io/badge/R-%3E%3D4.0-blue)](https://www.r-project.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**Allometric equations and forest inventory analysis tools for Nigerian tropical hardwood species.**
+**Allometric equations and forest inventory analysis tools for tropical hardwood species.**
 
 This repository contains field-validated models for tree height, volume, and above-ground biomass estimation, developed from inventory data collected in Nigerian forest reserves.
 
@@ -76,7 +76,7 @@ Multivariate analysis approach:
 ## 📁 Repository Structure
 
 ```
-nigerian-forest-allometry/
+forest-biometrics-toolkit/
 │
 ├── data/
 │   ├── teak_opepe_biomass_data.csv  # 200 trees, 19 variables (REAL DATA!)
