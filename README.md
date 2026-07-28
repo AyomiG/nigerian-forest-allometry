@@ -13,7 +13,7 @@ This repository contains field-validated models for tree height, volume, and abo
 
 ---
 
-## 📋 Overview
+## Overview
 
 Forest biometrics models developed from primary field data collection in Nigerian forest reserves. This repository contains **real field measurements** from 699+ trees across multiple study sites:
 
@@ -194,14 +194,14 @@ Key literature informing this work:
 
 ---
 
-## 👤 Author
+##  Author
 
 **Oluwadamilola Ogundipe**
 - MSc Forest Biometrics, University of Ibadan, Nigeria
 - MSc Mediterranean Forestry & Remote Sensing, University of Padova, Italy
 - PhD Candidate, Environmental Science, ETH Zurich
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 **Field Data Collection Team & Acknowledgment:**
 - Oluwadamilola C. Ogundipe
@@ -217,13 +217,13 @@ Data was collected as part of MSc coursework in Forest Biometrics at the Univers
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions welcome! If you have:
 - Additional Nigerian species data
@@ -234,7 +234,7 @@ Please open an issue or submit a pull request.
 
 ---
 
-## 📬 Citation
+## Citation
 
 If you use these models in your research, please cite:
 
