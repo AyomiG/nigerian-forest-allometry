@@ -73,7 +73,7 @@ Multivariate analysis approach:
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 forest-biometrics-toolkit/
@@ -103,7 +103,7 @@ forest-biometrics-toolkit/
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 ```r
@@ -132,7 +132,7 @@ source("R/04_biomass_models.R")
 
 ---
 
-## 📊 Key Results
+##  Key Results
 
 ### Weibull Parameters for Obeche (Gambari)
 | Parameter | Value | Description |
@@ -173,7 +173,7 @@ AGB = exp(-2.5 + 2.4×ln(DBH) + 0.5×ln(H))
 
 ---
 
-## 📸 Field Work
+## Field Work
 
 Data collection followed standard forest inventory protocols:
 - **Plot design**: 15 randomly selected plots (25m × 25m)
@@ -183,7 +183,7 @@ Data collection followed standard forest inventory protocols:
 
 ---
 
-## 📚 References
+## References
 
 Key literature informing this work:
 
